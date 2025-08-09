@@ -1,0 +1,17 @@
+{
+  "name": "Orchestrate",
+  "short_name": "Orchestrate",
+  "description": "Your executive coach and knowledge assistant",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#ffffff"
+}
